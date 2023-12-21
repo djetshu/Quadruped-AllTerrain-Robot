@@ -75,3 +75,9 @@ This repository contains information about the design and development of a quadr
 - Prototyping of a leg with 3D printing and laser cutting
 - Complete design of wheel attachment in the last joint
 - Simulations (torque verification, motion checks)
+
+## Contact Information
+
+For inquiries, collaboration opportunities, or questions about the Quadruped AllTerrain Robot project, feel free to contact us:
+
+- **Email:** queque.daffer@pucp.edu.pe
