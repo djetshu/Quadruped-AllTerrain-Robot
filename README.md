@@ -17,10 +17,10 @@ This repository contains information about the design and development of a quadr
 
 | Anymal C - ETHZ / Anybotics | Spot - Boston Dynamics | Cheetah - MIT |
 | :--------------------------: | :---------------------: | :------------: |
-| <p align="center" width="100%"><img width="60%" src=Images/anybotic1.png></p> | <p align="center" width="100%"><img width="60%" src=Images/spot.png></p> | <p align="center" width="100%"><img width="60%" src=Images/cheetah.png></p> |
+| <p align="center" width="100%"><img width="60%" src=Images/anybotic1.png></p> | <p align="center" width="100%"><img width="60%" src=Images/spot.png></p> | <p align="center" width="100%"><img width="90%" src=Images/cheetah.png></p> |
 | <p align="center" colspan="3">Leg mechanism</p> | <p align="center" colspan="3">Leg mechanism</p> | <p align="center" colspan="3">Leg mechanism</p> |
 | Motors in joints | 4 bars| Synchronous belts | 
-| <p align="center" width="100%"><img width="60%" src=Images/anymal_leg.jpeg></p> | <p align="center" width="100%"><img width="60%" src=Images/spot_leg.png></p> | <p align="center" width="100%"><img width="60%" src=Images/cheetah_leg.png></p> |
+| <p align="center" width="100%"><img width="80%" src=Images/anymal_leg.jpeg></p> | <p align="center" width="100%"><img width="80%" src=Images/spot_leg.png></p> | <p align="center" width="100%"><img width="90%" src=Images/cheetah_leg.png></p> |
 
 # Mechanical design of Quadruped AllTerrain Robot
 
