@@ -31,6 +31,8 @@ This repository contains information about the design and development of a quadr
 - Length: 63 cm
 - Width: 49 cm
 - Standard height: 43 cm
+- Motors: [CuberMars AK10-9](https://www.cubemars.com/goods-1141-AK10-9+V20.html)
+- Foot sensor: [Rokubi FT Sensor](https://www.botasys.com/force-torque-sensors/rokubi)
 - Materials: Aluminum
 - Weight: 18 kg (Mechanics only - estimated final weight: 30 kg)
 - Maximum load capacity: 10 kg
@@ -39,9 +41,11 @@ This repository contains information about the design and development of a quadr
 
 - IP 67 Sealed Design
     
-    Each motor is fully sealed with couplings and parts similar to those applied in glencore.
-    
-    [IP 67 Sealed Design Video](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49d81742-1673-4bda-9f90-24660ee9b832/VID_20220103_170911.mp4)
+    Each motor AK10-9 is fully sealed with couplings and oring components.
+    <p align="center" width="100%">
+     <img width="30%" src=Images/cubemarsak109.png>
+     <img width="40%" src=Images/cubemarsak109_sealed.png>
+    </p>
     
 - Scalable (Smaller or Larger Robot)
     
@@ -59,3 +63,15 @@ This repository contains information about the design and development of a quadr
     </p>
 
 - Easy Prototyping
+
+    Given that simple shapes and geometries of every part of the design, it easy to 3D print and laser cut to prototype.
+
+  <p align="center" width="100%">
+     <img width="60%" src=Images/q2.png>
+    </p>
+
+## Next Steps
+- Preliminary budget (Actuators, sensors, materials, and machining)
+- Prototyping of a leg with 3D printing and laser cutting
+- Complete design of wheel attachment in the last joint
+- Simulations (torque verification, motion checks)
